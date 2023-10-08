@@ -7,6 +7,8 @@ Problem: You have n number of locked boxes in front of you.
 Task: Write a method that determines if all the boxes can be opened.
 """
 from collections import deque
+
+
 def canUnlockAll(boxes):
     """
     Function that checks with boolean value if the list type and
